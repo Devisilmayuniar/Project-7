@@ -18,7 +18,7 @@
 ### Latihan 1 
 * Saya diberikan tugas untuk membuat program perulangan bersarang/bertingkat (nested for) yang menghasilkan output berikut
 
-![output 1](gambar/tugas%201)
+![output 1](FOTO/tugas 1.png)
 
 Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](tugas1.py)
 
