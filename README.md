@@ -12,8 +12,8 @@
 ## Daftar Isi
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
-| 1. | Latihan 1 | [penjelasan]https://github.com/rizkyyz/latihan2/blob/master/README.md() | [code]() |
-| 2. | Latihan 2 | [penjelasan](#Latihan-2) | [code](#tugas2.py) |
+| 1. | Latihan 1 | [penjelasan](https://github.com/Devisilmayuniar/Project-7/blob/main/README.md) | [code](https://github.com/Devisilmayuniar/Project-7/blob/main/project7-latihan1.py) |
+| 2. | Latihan 2 | [penjelasan](https://github.com/Devisilmayuniar/Project-7/blob/main/README.md) | [code](https://github.com/Devisilmayuniar/Project-7/blob/main/project7-latihan2.py) |
 
 ### Latihan 1 
 * Saya diberikan tugas untuk membuat program perulangan bersarang/bertingkat (nested for) yang menghasilkan output berikut
