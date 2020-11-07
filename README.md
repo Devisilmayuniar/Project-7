@@ -60,7 +60,7 @@ print()
 
 Maka program yang di hasil seperti berikut
 
-![hasil ke1](gambar/hasil1.png)
+![hasil ke1](FOTO/input1.png)
 
 
 ### Latihan 2
@@ -114,6 +114,6 @@ angkaDec = random.uniform(0, 0.5)
 
 Maka program yang dihasilkan akan seperti berikut
 
-![tampil 2](gambar/hasil2.png)
+![tampil 2](FOTO/input2.png)
 
 
