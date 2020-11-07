@@ -71,7 +71,7 @@ Maka program yang di hasil seperti berikut
      
 Seperti pada gambar berikut
 
-![output 2](gambar/tugas%202)
+![output 2](FOTO/tugas2)
 
 Maka program yang saya buat sebagai berikut atau bisa dilihat di [hasil Code](tugas2.py)
 
